@@ -42,15 +42,15 @@
 -->
 <br>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+   <p>🎨 Blog & Book 🎨</p>
 </div>
-<div align=center>
+<div align=center> 
+  <a href="https://velog.io/@adminhelper">
+    <img src="https://img.shields.io/badge/-GitBook-3884FF?style=flat-square&logo=GitBook&logoColor=white&"/>
+  </a>
   <a href="https://byeon-sungmuns-organization.gitbook.io/gitbook">
     <img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/>
   </a> 
-  <a href="https://velog.io/@adminhelper">
-     <img src="https://img.shields.io/badge/-GitBook-3884FF?style=flat-square&logo=GitBook&logoColor=white&"/>
-  </a>
 </div>
 <!--
 <div align=center>
